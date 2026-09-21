@@ -18,10 +18,6 @@ An AI-powered resume analysis and job preparation platform that helps users anal
 
 ## Screenshots
 
-### Login
-
-![Login](AI%20Resume%20Analysis/Login.png)
-
 ### Dashboard
 
 ![Dashboard](AI%20Resume%20Analysis/Dashboard.png)
