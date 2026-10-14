@@ -1,4 +1,4 @@
-# AI Resume Analyzer & Job Assistant
+# AI Job Assistant and Resume Analyzer
 
 An AI-powered resume analysis and job preparation platform that helps users analyze their resumes, compare them with job descriptions, identify skill gaps, and prepare for interviews.
 
@@ -109,7 +109,7 @@ Make sure the following are installed:
 
 ### Clone the Repository
 
-git clone https://github.com/supabhinav/AI-Resume-Analyzer-and-Job-Assistant.git
+git clone https://github.com/Mayank-kumar04/AI-Job-Assistant-and-Resume-Helper.git
 
 cd AI-Resume-Analyzer-RAG
 
@@ -309,12 +309,12 @@ http://localhost:5173
 
 ## Author
 
-Abhinav Jha
+Mayank Kumar
 
-M.Tech Computer Science & Engineering
-National Institute of Technology, Silchar
+B.Tech Computer Science & Engineering
+Lovely Professional University, Punjab
 
-GitHub: https://github.com/supabhinav
+GitHub: https://github.com/Mayank-kumar04
 
 ## License
 
