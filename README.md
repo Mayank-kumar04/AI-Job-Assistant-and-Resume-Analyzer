@@ -316,6 +316,3 @@ Lovely Professional University, Punjab
 
 GitHub: https://github.com/Mayank-kumar04
 
-## License
-
-This project is licensed under the MIT License.
