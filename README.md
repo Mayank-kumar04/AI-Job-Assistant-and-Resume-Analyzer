@@ -108,10 +108,9 @@ Make sure the following are installed:
 - Google Gemini API key
 
 ### Clone the Repository
+git clone https://github.com/Mayank-kumar04/AI-Job-Assistant-and-Resume-Analyzer.git
 
-git clone https://github.com/Mayank-kumar04/AI-Job-Assistant-and-Resume-Helper.git
-
-cd AI-Resume-Analyzer-RAG
+cd AI-Job-Assistant-and-Resume-Analyzer
 
 ### Backend Setup
 
